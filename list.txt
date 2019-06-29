@@ -1,0 +1,17 @@
+>>> x = []
+>>> x.append('a')
+>>> x.append('b')
+>>> x.append('c')
+>>> x.append(1)
+>>> x.append(1.256)
+>>> x
+['a', 'b', 'c', 1, 1.256]
+>>> y = [2, 18, 'foo', 'bar']
+>>> x.append(y)
+>>> x
+['a', 'b', 'c', 1, 1.256, [2, 18, 'foo', 'bar']]
+>>> x[5]
+[2, 18, 'foo', 'bar']
+>>> x[5][2]
+'foo'
+>>> exit()
