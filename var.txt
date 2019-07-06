@@ -1,0 +1,23 @@
+Python 3.5.2 (default, Nov 12 2018, 13:43:14) 
+[GCC 5.4.0 20160609] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> print('Hello World')
+Hello World
+>>> x = 'Hello World'
+>>> print(type(x))
+<class 'str'>
+>>> b = 'Hello Victor' #new variable
+>>> b
+'Hello Victor'
+>>> tmp = x
+>>> x = b
+>>> b = tmp
+>>> x
+'Hello Victor'
+>>> b
+'Hello World'
+>>> x, b = b, x
+>>> b
+'Hello Victor'
+>>> 
+
