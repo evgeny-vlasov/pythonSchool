@@ -97,4 +97,4 @@ def move():
         pdy=-pdy
     turtle.ontimer(move,5)
 turtle.ontimer(move,5)
-input()
+
