@@ -2,3 +2,4 @@ https://www.youtube.com/watch?v=wTlw7fNcO-0 #fibonacci
 https://docs.python.org/3.7/library/turtle.html
 https://www.quackit.com/python/reference/python_3_escape_sequences.cfm
 https://stackoverflow.com/questions/16573051/sound-alarm-when-code-finishes
+https://realpython.com/python-f-strings/
